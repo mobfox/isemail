@@ -1,5 +1,5 @@
 {
-    "name": "dominicsayers/isemail",
+    "name": "mobfox/isemail",
     "description": "Checks an email address against the following RFCs: 3696, 1123, 4291, 5321, 5322",
     "keywords": [
         "email",
